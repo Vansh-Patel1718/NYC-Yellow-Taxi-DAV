@@ -55,6 +55,7 @@ https://docs.google.com/spreadsheets/d/1h9fRKx9_PxuGk1PytCXSCwvTGnO-VUlu/edit?us
 
 ## Repository Structure
 
+<pre>
 NYC-YELLOW-TAXI-DAV/
 │
 ├── Images/
@@ -74,6 +75,7 @@ NYC-YELLOW-TAXI-DAV/
 ├── Project_Code.ipynb
 ├── Project_Report.docx
 └── README.md
+</pre>
 
 ---
 
@@ -303,4 +305,5 @@ Data Analytics & Visualization Project
 - NYC Taxi & Limousine Commission
 - Kaggle Dataset Contributors
 - Folium for spatial visualizations
+
 
